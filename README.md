@@ -6,14 +6,16 @@ Export your Banner schedule to iCal in one click.
 ## How To Use
 1. Open your Banner registration / schedule page  
 2. Select Term
-<br>
-![Select Term](./assets/term-select.png)
+
+    ![Select Term](./assets/term-select.png)
+
 3. Click On **"Tampermonkey"** In The *Extensions* Tab
-<br>
-![Scripts Button](./assets/script-button.png)
+
+    ![Scripts Button](./assets/script-button.png)
+
 4. Click **"Export Schedule"**
-<br>
-![Export Button](./assets/export-button.png)
+
+    ![Export Button](./assets/export-button.png)
 
 5. Download the generated `.ics` file  
 6. Import into:
