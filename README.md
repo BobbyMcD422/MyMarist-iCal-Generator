@@ -1,6 +1,8 @@
 # MyMarist-iCal-Generator
 Export your Banner schedule to iCal in one click.
 ## Installation
+**MAKE SURE TAMPERMONKEY IS INSTALLED**
+
 [![Install Script](https://img.shields.io/badge/Install-Tampermonkey-blue?logo=tampermonkey)](https://raw.githubusercontent.com/BobbyMcD422/MyMarist-iCal-Generator/main/MyMaristGenerator.user.js)
 
 ## How To Use
