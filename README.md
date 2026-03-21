@@ -1,9 +1,13 @@
 # MyMarist-iCal-Generator
 Export your Banner schedule to iCal in one click.
 ## Installation
-**MAKE SURE TAMPERMONKEY IS INSTALLED**
+1. Install Tampermonkey
+2. Enable User Scripts in Chrome Extension Page
 
-[![Install Script](https://img.shields.io/badge/Install-Tampermonkey-blue?logo=tampermonkey)](https://raw.githubusercontent.com/BobbyMcD422/MyMarist-iCal-Generator/main/MyMaristGenerator.user.js)
+    ![Allow Button](./assets/allow_script.png)
+3. Click Below To Install My Script!
+    
+    [![Install Script](https://img.shields.io/badge/Install-Tampermonkey-blue?logo=tampermonkey)](https://raw.githubusercontent.com/BobbyMcD422/MyMarist-iCal-Generator/main/MyMaristGenerator.user.js)
 
 ## How To Use
 1. Open your Banner registration / schedule page  
