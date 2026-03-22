@@ -32,9 +32,9 @@ Export your Banner schedule to iCal in one click.
 
 ## Common Issues
 * The Courses Will Start On The Current Week
-    * *This is Just How MyMarist Sends The Course Data*
+    * Make Sure You're Usin V2 on the main branch
 
 ## Technologies Used
 * JavaScript (Tampermonkey userscript)
 * Browser XHR interception
-* iCalendar (.ics) format
+* .ics format (iCal, Google Cal compatible
