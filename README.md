@@ -32,9 +32,9 @@ Export your Banner schedule to ICS (universal online Calander Format) in one cli
 
 ## Common Issues
 * The Courses Will Start On The Current Week
-    * Make Sure You're Usin V2 on the main branch
+    * Make Sure You're Using V2 and are on the main branch
 
 ## Technologies Used
 * JavaScript (Tampermonkey userscript)
 * Browser XHR interception
-* .ics format (iCal, Google Cal compatible
+* .ics format (iCal, Google Cal compatible)
